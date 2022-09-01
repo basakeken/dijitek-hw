@@ -1,0 +1,13 @@
+<!--
+  User Story / Öykü #1:
+    Süre tutmak istiyorum
+  Ödev Kriterleri:
+  - Zamanlayıcıyı başlatabileceğim
+  - Zamanlayıcıyı durdurabileceğim
+  - Zamanlayıcı durdurulduğunda başlangıç ile arasında ne kadar geçmiş
+    olduğu bana bildirilecek.
+   Refinement Notları:
+  - İstediğiniz Ui kütüphanesini kullanabilirsiniz.
+  - Ana öncelik lifecyclelara hakim olup olmadığınızı anlamak.
+-->
+
